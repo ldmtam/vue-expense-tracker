@@ -1,14 +1,11 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the pet project for learning Vue 3. It is orignated from this [repo](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker) with the [Youtube tutorial](https://youtu.be/hNPwdOZ3qFU?si=Ymj0RcRgTeGDY0QB)
 
-## Recommended IDE Setup
+I also make some improvements to this project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Use Pinia for maintaining global store
+2. Use VueUse local storage
 
 ## Project Setup
 
